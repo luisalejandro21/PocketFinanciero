@@ -1,0 +1,34 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entorno virtual
+backend/.venv/
+.venv/
+
+# Variables de entorno
+backend/.env
+.env
+
+# Base de datos local
+db.sqlite3
+backend/db.sqlite3
+
+# Archivos de VS Code
+.vscode/
+
+# Logs
+*.log
+
+# ==========================
+# Node / React
+# ==========================
+frontend/node_modules/
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
